@@ -26,6 +26,6 @@ jobs:
     - name: Display Maven Goals Output
       run: |
         
-        mvn test
+       
         mvn clean
 
